@@ -1,15 +1,15 @@
-#### <u><center>Full Stack Developer with a Passion for Customer-Centric Solutions</center></u>
+# <u><center>Full Stack Developer with a Passion for Customer-Centric Solutions</center></u>
 
 <img src='./imgs/banner.png' />
 
 <hr>
 
-###### Hello! <a href='https://www.dustinowenthomson.com' target="_blank">I'm Dustin.</a>
+## <a href='https://www.dustinowenthomson.com' target="_blank">Hello! I'm Dustin.</a>
 I am a full-stack developer with proficiency in various programming languages and frameworks. I am actively pursuing opportunities in the software engineering field to further enhance my skills and contribute meaningfully both professionally and personally. I am eager to find a role where I can leverage my expertise to enhance internal productivity within companies and contribute to shaping technology to be more user-friendly.
 
 <hr>
 
-## <center>My Projects:</center>
+### <center>My Projects:</center>
 
 * <strong>BARK PARKS ( <a href="https://barkparks.info" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Bark_Parks" target="_blank">GitHub</a> )</strong>
 Bark Parks is a dog park finder that enables users to discover parks in their local area or explore locations in preparation for travel. Users have the ability to save preferred parks, share photos from their visits, and leave reviews for the parks they explore.<p>
