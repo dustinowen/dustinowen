@@ -16,7 +16,7 @@ Technology Used: Django, HTML, CSS<br>
 Bark Parks is a dog park finder that enables users to discover parks in their local area or explore locations in preparation for travel. Users have the ability to save preferred parks, share photos from their visits, and leave reviews for the parks they explore.<p>
 This was my first experience leveraging Django full-stack technology! With Django, Bark Parks incorporates a robust user authentication system, ensuring the secure handling of user-generated content. Additionally, the integration of the Google API enhances the platform's capability to locate dog parks within the queried area.<p>
 <i>Bark Parks, while not currently mobile-friendly, is in the process of becoming accessible on mobile devices. Additionally, upcoming features will empower users to personalize their experience by storing favorite parks directly to their individual profiles, providing a more tailored and private list of preferred locations.</i>
-<p><br>
+<p>
 
 * <strong>RUKE'S EMPORIUM ( <a href="https://barkparks.info" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Bark_Parks" target="_blank">GitHub</a> )</strong><br>
 Technology Used: MongoDB, Express.js, React,js, Node.js<br>
