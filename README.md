@@ -1,4 +1,4 @@
-<img src='./imgs/dot_banner.png' />
+<img src='./imgs/banner.png' />
 
 
 
