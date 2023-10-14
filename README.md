@@ -1,4 +1,4 @@
-##<u><center>Full Stack Developer with a Passion for Customer-Centric Solutions</center></u>
+## <u><center>Full Stack Developer with a Passion for Customer-Centric Solutions</center></u>
 
 <img src='./imgs/banner.png' />
 
