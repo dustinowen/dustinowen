@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src='./imgs/dot_banner.png' />
+
+
+
 
 <!--
 **dustinowen/dustinowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
