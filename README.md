@@ -11,6 +11,11 @@ I am a full-stack developer with proficiency in various programming languages an
 
 ### My Full-Scale Applications:
 
+* <strong>RUKE'S EMPORIUM v2 ( <a href="https://rukes-emporium-v2-d257b9b83c62.herokuapp.com/" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Rukes-Emporium-V2" target="_blank">GitHub</a> )</strong><br>
+Tech Used: React.js, Express.js, Node.js, Firebase<p>
+  A remake of Ruke's Emporium (see project below)<p>
+  Having time to dedicate to studying React and its multitude of libraries, I have created a newer version of the site. Utilizing both function and class components, as well as newer features in the react-router-dom such a nested routes, I was able to build the site I had envisioned when I first sketched this project on paper. Now, instead of all pieces of my application residing in a mere handful of files, I have built reusable components that not only benefited this particular project, but are reusable for future designs as well. 
+
 * <strong>BARK PARKS ( <a href="https://barkparks.info" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Bark_Parks" target="_blank">GitHub</a> )</strong><br>
 Tech Used: Django, HTML, CSS (bootstrap)<p>
 Bark Parks is a dog park finder that enables users to discover parks in their local area or explore locations in preparation for travel. Users have the ability to save preferred parks, share photos from their visits, and leave reviews for the parks they explore.<p>
@@ -19,8 +24,8 @@ Update 10.16.23 - Users can now personalize their experience by storing favorite
 <i>Bark Parks, while not currently mobile-friendly, is in the process of becoming accessible on mobile devices! </i>
 <p>
 
-* <strong>RUKE'S EMPORIUM ( <a href="https://barkparks.info" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Bark_Parks" target="_blank">GitHub</a> )</strong><br>
-Tech Used: MongoDB, Express.js, React,js, Node.js<p>
+* <strong>RUKE'S EMPORIUM ( <a href="https://rukesemporium-30fefc6ececa.herokuapp.com/" target="_blank">Live Site</a> | <a href="https://github.com/dustinowen/Rukes-Emporium" target="_blank">GitHub</a> )</strong><br>
+Tech Used: MongoDB, Express.js, React,js, Node.js, npm<p>
   This was my first experience with React! I conceived and built a fully functional e-commerce website from the ground up, utilizing the MERN stack to ensure seamless integration between the front-end and back-end. <p>
   The site provides a consistent and user-friendly experience across diverse devices and screen sizes. Furthermore, I developed a robust backend with comprehensive inventory management capabilities, empowering site owners to efficiently track and manage their product inventory.
 
